@@ -15,7 +15,7 @@ export default function Home() {
       <footer className="mt-12 text-center text-xs text-ink-faint">
         Generated entirely in your browser. Nothing is uploaded or stored.
         <p className="mt-2">
-          © 2026 QuickQR · Built by <span className="font-medium text-ink">Nishanth J</span>
+          © 2026 QuickQR · Built by <span className="font-medium text-ink">Sree Nishanth J</span>
         </p>
       </footer>
     </main>
